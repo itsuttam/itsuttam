@@ -6,11 +6,11 @@
 
 <br/>
 
-<a href="https://github.com/uttam20050428">
-  <img src="https://img.shields.io/badge/GitHub-uttam20050428-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+<a href="https://github.com/itsuttam">
+  <img src="https://img.shields.io/badge/GitHub-itsuttam-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=uttam20050428&label=Profile%20Views&color=0284C7&style=for-the-badge" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/uttam20050428?label=Followers&style=for-the-badge&color=0EA5E9&logo=github" alt="GitHub followers"/>
+<img src="https://komarev.com/ghpvc/?username=itsuttam&label=Profile%20Views&color=0284C7&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/itsuttam?label=Followers&style=for-the-badge&color=0EA5E9&logo=github" alt="GitHub followers"/>
 
 </div>
 
