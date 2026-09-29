@@ -14,7 +14,6 @@
 
 </div>
 
----
 
 ## `whoami`
 
@@ -23,14 +22,12 @@ uttam@github:~$ whoami
 
 Name        : Uttam Khatri
 Location    : Nepal
-Role        : Full Stack Developer
+Role        : Developer
 Education   : BSc IT Student
-Building    : Invoday
 Exploring   : AI, Cloud, Backend Systems
 Mindset     : Learn → Build → Ship → Improve
 ```
 
----
 
 ## `stack --current`
 
@@ -54,7 +51,6 @@ tools:
   - Linux
 ```
 
----
 
 <div align="center">
 
