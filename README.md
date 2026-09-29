@@ -1,10 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0369A1,100:38BDF8&height=220&section=header&text=Uttam%20Khatri&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20BSc%20IT%20Student%20from%20Nepal&descSize=18&descAlignY=55&animation=fadeIn" alt="Uttam Khatri Header" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=750&height=60&lines=Full+Stack+Developer;React+%7C+React+Native+%7C+Django;Building+Invoday;Exploring+AI%2C+Cloud+and+Modern+Web+Technologies;Learning.+Building.+Improving." alt="Typing introduction" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,45:0C4A6E,100:38BDF8&height=180&section=header&text=Uttam%20Khatri&fontSize=50&fontColor=FFFFFF&fontAlignY=42&animation=twinkling" alt="Uttam Khatri Header" />
 
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1800&pause=500&color=38BDF8&center=true&vCenter=true&repeat=true&width=760&height=55&lines=%3E+Building+products+that+solve+real+problems;%3E+Web+%2B+Mobile+%2B+Backend;%3E+React+%7C+React+Native+%7C+Django;%3E+Currently+building+Invoday;%3E+Exploring+AI+and+Cloud+Engineering" alt="Developer terminal animation" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=itsuttam&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub trophies"/>
+
+<br/><br/>
 
 <a href="https://github.com/itsuttam">
   <img src="https://img.shields.io/badge/GitHub-itsuttam-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -16,51 +22,46 @@
 
 </div>
 
+---
+
 ## 👨‍💻 About Me
-
-I’m **Uttam Khatri**, a BSc IT student and Full Stack Developer from Nepal with a strong interest in building practical, scalable, and user-focused digital products.
-
-I work across web and mobile development, with experience in technologies such as React, React Native, Django, Laravel, TypeScript, Python, and modern backend systems.
-
-Currently, I’m focused on building **Invoday**, while continuously improving my skills in software engineering, cloud technologies, AI integration, and system design.
 
 ```typescript
 const uttam = {
+  name: "Uttam Khatri",
   location: "Nepal 🇳🇵",
   education: "BSc IT Student",
-  role: "Full Stack Developer",
 
-  currentFocus: {
-    project: "Invoday",
-    learning: [
-      "Artificial Intelligence",
-      "Cloud & DevOps",
-      "System Design",
-      "Advanced Backend Development"
-    ]
+  building: "Invoday",
+
+  focus: [
+    "Full Stack Development",
+    "Mobile Applications",
+    "Backend Engineering",
+    "AI Integration",
+    "Cloud & DevOps"
+  ],
+
+  stack: {
+    frontend: ["React", "TypeScript", "Tailwind CSS"],
+    mobile: ["React Native", "Expo"],
+    backend: ["Django", "Laravel", "REST APIs"],
+    database: ["PostgreSQL", "MySQL"],
+    tools: ["Git", "Docker", "Linux"]
   },
 
-  technologies: [
-    "React",
-    "TypeScript",
-    "Python",
-    "Django",
-    "REST APIs"
-  ],
+  status: "Always learning and building.",
 
-  interests: [
-    "Full Stack Development",
-    "Artificial Intelligence",
-    "Cloud Computing",
-    "Open Source"
-  ],
-
-  availableFor: [
-    "Freelance Projects",
-    "Open Source Collaboration",
-    "Developer Opportunities"
-  ],
-
-  philosophy: "Learn. Build. Improve. Repeat."
+  philosophy: "Learn → Build → Improve → Repeat"
 };
 ```
+
+---
+
+<div align="center">
+
+### ⚡ Development Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsuttam&bg_color=0F172A&color=38BDF8&line=0EA5E9&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub activity graph"/>
+
+</div>
