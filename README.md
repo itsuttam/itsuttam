@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,50:0F172A,100:0EA5E9&height=230&section=header&text=UTTAM%20KHATRI&fontSize=46&fontColor=F8FAFC&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%E2%80%A2%20NEPAL&descSize=17&descAlignY=57&animation=fadeIn" alt="Uttam Khatri Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,50:0F172A,100:0EA5E9&height=230&section=header&text=UTTAM%20KHATRI&fontSize=46&fontColor=F8FAFC&fontAlignY=38&desc=IT%20STU%20DENT&descSize=17&descAlignY=57&animation=fadeIn" alt="Uttam Khatri Header" />
 
 <br/>
 
