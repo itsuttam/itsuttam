@@ -40,13 +40,8 @@ frontend:
   - TypeScript
   - Tailwind CSS
 
-mobile:
-  - React Native
-  - Expo
-
 backend:
   - Django
-  - Laravel
   - REST APIs
 
 database:
